@@ -16,7 +16,7 @@ import cv2
 
 Using imgae pyramid technique as a data augmentation method.
 
-![Image_pyramid.svg-2.png](attachment:Image_pyramid.svg-2.png)
+![Image_pyramid svg](https://user-images.githubusercontent.com/25687155/177599051-2b739eb4-9229-4cbb-8b24-b0f1d2956a05.png)
 
 
 ```python
